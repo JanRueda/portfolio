@@ -1,0 +1,24 @@
+
+/* Header */
+.Header {
+	background: orange;
+}
+.MainMenu {
+	background: orange;
+	text-align: center;
+}
+
+
+.MainMenu-logo {
+	text-align: left;
+}
+
+.MainMenu-list {
+	text-align: right;
+	display: inline-block;
+}
+
+.MainMenu-item {
+	display: inline-block;
+}
+
