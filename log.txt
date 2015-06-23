@@ -1,0 +1,35 @@
+commit fd34f354985b1f5613f8890663ab36c6444ffec1
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Tue Jun 23 02:32:31 2015 +0200
+
+    añado font-awesome
+
+commit 22cc27a2352837693d72216a01248c7b5ff798f1
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Tue Jun 23 01:05:33 2015 +0200
+
+    Arreglados links nav
+
+commit 16c64521e7d0db512a407080ad0d02d2d5876bc7
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Mon Jun 22 03:04:26 2015 +0200
+
+    Cambio normalize.css letra Merriweather y tamaño
+
+commit 1dffb748c26d01d491a65f74b71806dcb173f1c4
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Mon Jun 22 02:46:38 2015 +0200
+
+    Creo archivos css y linkeo normalice.css
+
+commit d09322be9eca31e27494d15e8f3933088a1b26ee
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Mon Jun 22 02:22:15 2015 +0200
+
+    Estructura html con clases
+
+commit f963ed160a8f77a41fa845aa5ef3ee850386f737
+Author: Jan Rueda <ruedagtz@gmail.com>
+Date:   Mon Jun 22 01:44:49 2015 +0200
+
+    Esqueleto html
