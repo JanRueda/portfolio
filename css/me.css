@@ -1,24 +1,69 @@
 
-/* Header */
-.Header {
-	background: orange;
-}
 .MainMenu {
-	background: orange;
+	background: #1E1E1E;
 	text-align: center;
-}
-
-
-.MainMenu-logo {
-	text-align: left;
+	height: 3.75em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
 }
 
 .MainMenu-list {
-	text-align: right;
-	display: inline-block;
+	margin: 0;
+	padding: 0;
 }
 
 .MainMenu-item {
 	display: inline-block;
+	margin-left: 1.5em;
 }
+
+.MainMenu-link {
+	text-decoration: none;
+	color: white;
+	line-height: 3.75em;
+}
+
+.Me {
+	background: orange;
+	margin-top: 3.75em;
+	padding: 1.2em 0;
+	text-align: center;
+}
+
+.Me-imageContainer {
+	margin: 0;
+}
+
+.Me-image {
+	border: 5px solid #1E1E1E;
+	background: #1E1E1E;
+	border-radius: 50%;
+}
+
+.Me-descriptionName,
+.Me-descriptionWork {
+	color: white;
+}
+
+.Me-descriptionName{
+	font-size: 2.5em;
+	font-weight: bold;
+	margin: 0;
+}
+
+.Me-line {
+	width: 3.12em;
+	height: 5px;
+	border: 0px solid;
+	background-color: #1E1E1E;
+}
+
+.Me-descriptionWork {
+ 	font-size: 1.5em;
+    font-weight: 300;
+}
+
+
 
