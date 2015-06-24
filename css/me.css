@@ -106,3 +106,29 @@
 .Social-list li a:active {
     background-color: orange;
 }
+
+
+/* About */
+
+.About {
+	background: lightgray;
+	margin-top: 3.75em;
+	padding: 1.2em 0;
+	text-align: center;
+}
+
+.AboutMe-description {
+	font-size: 1.1em;
+	color: #515151;
+	/*margenes de la description de about*/
+	margin-right: 10em; 
+	margin-left: 10em;
+	font-style: italic;
+}
+
+.AboutMe-line{
+	width: 3.12em;
+	height: 5px;
+	border: 0px solid;
+	background-color: #1E1E1E;
+}
