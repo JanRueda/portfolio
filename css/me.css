@@ -90,6 +90,7 @@
     border-radius: 100%;
     line-height: 40px;
     font-size: 1.25em;
+    border: 2px solid white;
     color: white; /* #fff */
     background-color: #1E1E1E;
     -webkit-transition: all .3s;
@@ -102,5 +103,5 @@
 .Social-list li a:hover,
 .Social-list li a:focus,
 .Social-list li a:active {
-    background-color: #01B0F0;
+    background-color: orange;
 }
