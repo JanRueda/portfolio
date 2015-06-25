@@ -132,3 +132,43 @@
 	border: 0px solid;
 	background-color: #1E1E1E;
 }
+
+/* About */
+
+.Work {
+	background: purple;
+	margin-top: 3.75em;
+	padding: 1.2em 0;
+	text-align: center;
+}
+
+.Work-line {
+	width: 3.12em;
+	height: 5px;
+	border: 0px solid;
+	background-color: #1E1E1E;
+}
+
+.Work {
+	margin-top: 2em;
+	text-align: center;
+}
+
+.Work-item {
+	display: inline-block;
+	margin-right: 1.2em;
+	margin-left: 1.2em;
+	margin-bottom: 1.8em;
+}
+
+.Work-containerDescription {
+	margin:0;
+	margin-top: 2.5em;
+
+}
+
+.Work-description {
+	font-size: 1.1em;
+	color: white;
+	font-style: italic;
+}
