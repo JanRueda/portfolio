@@ -32,6 +32,7 @@
 	margin-top: 3.75em;
 	padding: 1.2em 0;
 	text-align: center;
+	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
 .Me-imageContainer {
@@ -115,6 +116,7 @@
 	margin-top: 3.75em;
 	padding: 1.2em 0;
 	text-align: center;
+	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
 .AboutMe-description {
@@ -140,6 +142,7 @@
 	margin-top: 3.75em;
 	padding: 1.2em 0;
 	text-align: center;
+	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
 .Work-line {
@@ -149,10 +152,7 @@
 	background-color: #1E1E1E;
 }
 
-.Work {
-	margin-top: 2em;
-	text-align: center;
-}
+
 
 .Work-item {
 	display: inline-block;
