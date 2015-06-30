@@ -249,7 +249,7 @@
 
 .Contact-form {
 	text-align: center;
-	margin-top: 3.75em;
+	margin-top: 3.65em;
 	display: inline-block;
 	width: 32em;
 	text-align: center;
@@ -286,7 +286,17 @@
 /* footer */
 
 .Contact-footer {
+	margin:0;
+	background: #1E1E1E;
+}
+
+p.Contact-description {
+	margin: 0;
+	padding-top: 1.2em;
+	height: 3.75em;
+	background: #1E1E1E;
 	text-align: center;
+	color: white;
 }
 
 .Contact-Me {
