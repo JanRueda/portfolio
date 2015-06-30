@@ -37,6 +37,7 @@
 
 .Me-imageContainer {
 	margin: 0;
+	margin-top: 3.75em; /* tamaño del MainMenu, se le añade para que coja el ancho de este*/
 }
 
 .Me-image {
@@ -119,6 +120,10 @@
 	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
+.AboutMe-title {
+	margin-top: 1.75em; /* tamaño del MainMenu, se le añade para que coja el ancho de este*/
+}
+
 .AboutMe-description {
 	font-size: 1.1em;
 	color: #515151;
@@ -145,6 +150,10 @@
 	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
+.Work-title {
+	margin-top: 1.75em; /* tamaño del MainMenu, se le añade para que coja el ancho de este*/
+}
+
 .Work-line {
 	width: 3.12em;
 	height: 5px;
@@ -169,7 +178,7 @@
 
 .Work-description {
 	font-size: 1.1em;
-	color: white;
+	color: #1E1E1E;
 	font-style: italic;
 }
 
@@ -225,6 +234,10 @@
 	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
 }
 
+.Contact-title {
+	margin-top: 1.75em; /* tamaño del MainMenu, se le añade para que coja el ancho de este*/
+}
+
 .Contact-line {
 	width: 3.12em;
 	height: 5px;
@@ -244,6 +257,7 @@
 
 .Contact-formInput,
 .Contact-formTextArea {
+	border-radius: 1em; /* pone borde al radio */
 	border: none;
 	display: inline-block;
 	width: 28em; /* Permíteme crecer input a lo ancho */
