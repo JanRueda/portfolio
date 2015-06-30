@@ -138,7 +138,7 @@
 /* About */
 
 .Work {
-	background: purple;
+	background: white;
 	margin-top: 3.75em;
 	padding: 1.2em 0;
 	text-align: center;
@@ -172,3 +172,110 @@
 	color: white;
 	font-style: italic;
 }
+
+/* Link hover Work */
+
+/*.Work-link {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+
+
+.Work-containerDescription1 {
+    position: absolute;
+    margin:0;
+	margin-top: 2.5em;
+    opacity: 0;
+    background: rgba(24,188,156,.9);
+    -webkit-transition: all ease .5s;
+    -moz-transition: all ease .5s;
+    transition: all ease .5s;
+}
+
+.Work-containerDescription1:hover {
+    opacity: 1;
+}
+
+.Work-containerDescription1 .Work-description1 {
+    position: absolute;
+    font-size: 1.1em;
+	color: white;
+	font-style: italic;;
+    margin-top: -12px;
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+.Work-containerDescription1 .Work-description1 i {
+    margin-top: -12px;
+}
+*/
+
+/* Contact */
+
+.Contact {
+	background: lightgray;
+	margin-top: 3.75em;
+	padding: 1.2em 0;
+	text-align: center;
+	margin:0; /* Borra los espacios entre contenedores, por defecto el margin es 60 */
+}
+
+.Contact-line {
+	width: 3.12em;
+	height: 5px;
+	border: 0px solid;
+	background-color: #1E1E1E;
+}
+
+
+
+.Contact-form {
+	text-align: center;
+	margin-top: 3.75em;
+	display: inline-block;
+	width: 32em;
+	text-align: center;
+}
+
+.Contact-formInput,
+.Contact-formTextArea {
+	border: none;
+	display: inline-block;
+	width: 28em; /* Permíteme crecer input a lo ancho */
+	padding: .5em;
+	margin: 0 auto 1em; /*Centra un elemento con dislay:block con un ancho dado y ponemos el margin-bottom*/
+}
+
+.Contact-formButton{
+	background: orange;
+	color: white;
+	border: none;
+	display: inline-block;
+	padding: .5em;
+	margin-top: .5em;
+}
+
+.Contact-formButton:hover,
+.Contact-formButton:focus,
+.Contact-formButton:active,
+.Contact-formButton.active {
+    color: white;
+    background: purple;
+}
+
+
+/* footer */
+
+.Contact-footer {
+	text-align: center;
+}
+
+.Contact-Me {
+	font-weight: bold;
+}
+
