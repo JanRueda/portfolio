@@ -222,6 +222,18 @@
 	margin: 0 auto 1em; /*Centra un elemento con dislay:block con un ancho dado y ponemos el margin-bottom*/
 }
 
+@media all and (max-width: 680px){
+		.Contact-formInput,
+		.Contact-formTextArea {
+			border-radius: 1em; /* pone borde al radio */
+			border: none;
+			display: inline-block;
+			width: 15em; /* Permíteme crecer input a lo ancho */
+			padding: .5em;
+			margin: 0 auto 1em; /*Centra un elemento con dislay:block con un ancho dado y ponemos el margin-bottom*/
+		}
+	}
+
 
 .Contact-formButton{
 	background: orange;
